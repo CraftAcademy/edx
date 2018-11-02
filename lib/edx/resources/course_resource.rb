@@ -1,7 +1,7 @@
 module Edx
   module Resources
     class CourseResource < ResourceKit::Resource
-      API_ENDPOINT = 'https://prod-edx-discovery.edx.org'.freeze
+      API_ENDPOINT = 'https://class.craftacademy.co'.freeze
       COURSE_RESOURCE = '/api/v1/catalogs/:id/courses/'.freeze
 
       resources do

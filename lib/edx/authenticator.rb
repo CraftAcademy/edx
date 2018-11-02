@@ -1,6 +1,6 @@
 module Edx
   class Authenticator
-    AUTH_URL = 'https://api.edx.org/oauth2/v1/access_token'.freeze
+    AUTH_URL = 'https://class.craftacademy.co/oauth2/v1/access_token'.freeze
 
     attr_reader :access_token
 
