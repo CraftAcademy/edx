@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    edx (1.0.1)
+    edx (1.0.2)
       faraday (~> 0.12)
       faraday_middleware (~> 0.12.2)
       resource_kit (~> 0.1.7)
